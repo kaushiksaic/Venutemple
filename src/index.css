@@ -1,0 +1,55 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+.titlesec {
+  color: #3465aa;
+  font-size: 24px;
+}
+
+.abt {
+  text-align: justify;
+}
+
+
+.App{
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#footer {
+  margin-top: auto;
+}
+
+.bggrey1 {
+  background: #f6f7f8;
+}
+
+.bghead {
+  background-color: #3465aa;
+}
+
+.bgtop {
+  background-color: #EFDC75;
+}
+
+.tickernewsbar {
+  list-style-type: none;
+  display: inline;
+}
+
+.tickernewsbar li {
+  display: inline;
+}
+
+.tickercontent {
+  width: 100%;
+  padding-top: 13px;
+}
